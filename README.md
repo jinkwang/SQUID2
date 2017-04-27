@@ -219,6 +219,9 @@ yxing@ucla.edu
 Shaofang Li
 sfli001@gmail.com
 
+Zhicheng Pan
+zcpan1016@gmail.com
+
 If you found a bug or mistake in this project, we would like to know about it.
 Before you send us the bug report though, please check the following:
 
