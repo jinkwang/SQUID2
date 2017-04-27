@@ -9,7 +9,7 @@ http://www.mimg.ucla.edu/faculty/xing/custom_track/shaofang/SQUID/STARhg19.tgz
 http://www.mimg.ucla.edu/faculty/xing/custom_track/shaofang/SQUID/STARmm10.tgz
 4. Install [kallisto 0.43.0](https://pachterlab.github.io/kallisto/download) for the run without FPKM files provided. The kallisto index of human and mouse can be downloaded throught the following link
 http://www.mimg.ucla.edu/faculty/xing/custom_track/shaofang/SQUID/hg19_Ensemble74 
-http://www.mimg.ucla.edu/faculty/xing/custom_track/shaofang/SQUID/mm10_Ensemble78
+http://www.mimg.ucla.edu/faculty/xing/custom_track/zcpan/mm10_Ensemble88.idx
 5. Install [cufflinks 2.2.1](http://cole-trapnell-lab.github.io/cufflinks/install/) for the fun without FPKM and fastq files provided.  
 6. Install [DEXSeq 1.16.10](https://bioconductor.org/packages/devel/bioc/html/DEXSeq.html) to run differential spliced intron analysis
 
