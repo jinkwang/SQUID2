@@ -276,4 +276,8 @@ Q: Do the reads in the fastq files have to be the same length?
 
 A: No. If the reads in the fastq files do not have equal length, please set parameter check_len to true to generate new fastq files with equal length.
 
+Q: Can I run SQUID to output intron retention values without doing differential analysis? 
+
+A: Yes. You can run SQUID by ignoring --Comparison parameters. 
+
 
